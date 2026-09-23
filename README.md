@@ -1,5 +1,17 @@
 # Advanced HR Workforce & Employee Attrition Analytics
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/DAX-Measures-orange" alt="DAX"/>
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License"/>
+</p>
+
+## 🧭 Executive Summary
+
+An end-to-end HR analytics project that turns the IBM HR Employee Attrition dataset (1,470 employees) into a structured, decision-ready analysis. Using **Python** for cleaning and feature engineering, **PostgreSQL/SQL** for structured analysis, and **Power BI + DAX** for an interactive dashboard, the project surfaces a **16.1% overall attrition rate**, with attrition concentrated among employees who work overtime (30.53%), have low job satisfaction, or are in their first 2 years of tenure (29.82%). A custom **Employee Risk Score** segments the workforce into Low → Very High risk groups to help prioritize where HR should investigate further.
+
 ## 📊 Project Overview
 
 This project delivers an **end-to-end HR analytics solution** that analyzes workforce composition, employee attrition, employee experience, career progression, compensation, workload, and retention-related patterns.
@@ -14,6 +26,7 @@ The work is built on the publicly available **IBM HR Analytics Employee Attritio
 
 ## 📑 Table of Contents
 
+- [Executive Summary](#-executive-summary)
 - [Business Objectives](#-business-objectives)
 - [Project Structure](#️-project-structure)
 - [Technology Stack](#-technology-stack)
@@ -30,6 +43,7 @@ The work is built on the publicly available **IBM HR Analytics Employee Attritio
 - [Analytical Limitations](#️-analytical-limitations)
 - [Skills Demonstrated](#-skills-demonstrated)
 - [Author](#-author)
+- [License](#-license)
 
 ---
 
@@ -294,7 +308,7 @@ attrition_binary
 
 The analytical results were converted into an interactive HR analytics dashboard.
 
-![Power BI Dashboard](screenshots/PowerBI%20Dashboard.png)
+> 📷 *Dashboard screenshot to be added — once exported, drop the image into `screenshots/` and reference it here, e.g. `![Power BI Dashboard](screenshots/PowerBI%20Dashboard.png)`*
 
 **Core KPIs**
 
@@ -415,7 +429,12 @@ Data Analytics Portfolio Project
 
 ---
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) — free to use, modify, and share with attribution.
+
+---
+
 ## 📌 Disclaimer
 
 This project was created for educational and portfolio purposes using a publicly available, fictional HR analytics dataset. The findings represent patterns observed within the dataset and should not be interpreted as factual claims about any real organization or its employees.
-
