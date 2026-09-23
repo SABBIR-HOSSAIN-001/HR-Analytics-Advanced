@@ -308,7 +308,7 @@ attrition_binary
 
 The analytical results were converted into an interactive HR analytics dashboard.
 
-![Power BI Dashboard](screenshots/PowerBI-Dashboard.png)
+![Power BI Dashboard](HR-Analytics-Advanced/screenshots/PowerBI-Dashboard.png)
 
 **Core KPIs**
 
