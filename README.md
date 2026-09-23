@@ -84,10 +84,9 @@ HR-Analytics-Advanced/
 │   └── 04_advanced_analysis.sql
 │
 ├── powerbi/
-│   └── Advanced_HR_Workforce_Attrition_Analytics.pbix
-│
-├── screenshots/
-│   └── PowerBI Dashboard.png
+│   ├── Advanced_HR_Workforce_Attrition_Analytics.pbix
+│   └── screenshots/
+│       └── PowerBI-Dashboard.png
 │
 └── README.md
 ```
@@ -308,7 +307,7 @@ attrition_binary
 
 The analytical results were converted into an interactive HR analytics dashboard.
 
-![Power BI Dashboard](HR-Analytics-Advanced/screenshots/PowerBI-Dashboard.png)
+[![Power BI Dashboard](https://github.com/SABBIR-HOSSAIN-001/HR-Analytics-Advanced/raw/main/powerbi/screenshots/PowerBI-Dashboard.png)](https://github.com/SABBIR-HOSSAIN-001/HR-Analytics-Advanced/blob/main/powerbi/screenshots/PowerBI-Dashboard.png)
 
 **Core KPIs**
 
