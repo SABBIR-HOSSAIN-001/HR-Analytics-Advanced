@@ -428,11 +428,6 @@ Data Analytics Portfolio Project
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) — free to use, modify, and share with attribution.
-
----
 
 ## 📌 Disclaimer
 
